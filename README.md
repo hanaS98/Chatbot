@@ -39,7 +39,10 @@ This page connects the values of the servos and the directions of the base to th
 This page retrieves the last row in the database of the robot base and displays it.
 <p><img src="./robotBaseLastReccode.png" width="450" height="350" title="robotBaseLastReccode"></p>
 
-#### 5. 
+#### 5. skill-تحدث.json
+
+This is the json file that contains the property of the chatbot
+<p><img src="./jsonFile.png" width="450" height="200" title="jsonFile"></p>
 
 #### 6. robotcontroller.sql:
 
